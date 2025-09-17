@@ -1,0 +1,9 @@
+Flask>=2.3,<3.0
+moviepy==1.0.3
+proglog>=0.1.10
+imageio-ffmpeg>=0.4.8
+numpy>=1.23
+Pillow>=9.5
+scikit-image>=0.20
+edge-tts>=6,<7
+openai==0.28.1
