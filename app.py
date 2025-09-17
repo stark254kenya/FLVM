@@ -1,3 +1,10 @@
+"""
+title: FLVM V1 [FAST LEARNING VIDEO MAKER]
+author: stefanpietrusky
+author_url: https://downchurch.studio/
+version: 0.1
+"""
+
 import os
 import re
 import subprocess
@@ -2526,3 +2533,4 @@ def download(proj, filename):
 
 if __name__ == "__main__":
     app.run(debug=True, use_reloader=False)
+
