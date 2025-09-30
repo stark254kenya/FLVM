@@ -1,7 +1,8 @@
 """
 title: FLVM V1 [FAST LEARNING VIDEO MAKER]
 author: stefanpietrusky
-author_url: https://downchurch.studio/
+author_url1: https://downchurch.studio/
+author_url2: https://urlz.fr/uj1I [CAEDHET/HCDH Heidelberg University]
 version: 0.1
 """
 
@@ -2533,4 +2534,5 @@ def download(proj, filename):
 
 if __name__ == "__main__":
     app.run(debug=True, use_reloader=False)
+
 
